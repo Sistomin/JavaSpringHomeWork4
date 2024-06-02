@@ -23,8 +23,10 @@ by Istomin Sergey group 6413
     <version>3.3.0</version>
 </dependency>  
 
+  
 
-решение: 
+решение:  
+
 1. Реализован клас с ручками WebController
    
 2 Созданы HTML страницы в папке templates для отображения в браузере (bookById.html, books.html, issues.html, readerById.html, readerIssues.html, readers.html)
